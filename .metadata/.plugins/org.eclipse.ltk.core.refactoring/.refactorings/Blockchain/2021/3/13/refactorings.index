@@ -1,0 +1,5 @@
+1617191484407	Rename local variable 'encoded'
+1617191550320	Rename field 'previousHash'
+1617191566486	Rename field 'data'
+1617193484689	Rename method 'computeHash'
+1617197362758	Rename type 'BlochchainPrueba'
