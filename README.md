@@ -57,7 +57,7 @@ El valor hash calculado se denomina "resumen del mensaje" y nos saldría aquí:
 
 *Ilustración 6 Hash generada* 
 
-A la hora de calcular el hash se ha consultado varias páginas que nos instruyen en cómo calcular una función Hash SHA-256 y la codificación de cadenas, por ejemplo, utilizando Java Base64 (se muestran en las referencias): 
+A la hora de calcular el hash se ha consultado varias páginas que nos instruyen en cómo calcular una función Hash SHA-256 y la codificación de cadenas, por ejemplo, utilizando Java Base64: 
 
 ![](https://github.com/giramos/Blockchain/blob/main/imagenes/Aspose.Words.2e0ccb9e-bfa9-407a-af90-e8d14ebe5aa8.007.png)
 
@@ -77,7 +77,7 @@ Para crear nuestra clase Blockchain empezaremos por definir una lista de bloques
 
 *Ilustración 9 Lista de bloques* 
 
-El constructor no tendrá ningún parámetro pero si inicializaremos nuestra lista como un Array y después añadiremos a nuestra cadena un bloque denominado “Genesis”, que será el primer bloque de nuestra cadena. Este bloque “Genesis” es el inicial, por lo tanto, no tendrá ningún hash previo, es decir no apuntará a ningún otro bloque anterior ya que es el inicial, el genuino, el Génesis. Este concepto de bloque “Génesis”, se ha consultado en diferentes artículos, cabe destacar uno en especial citado en las referencias. 
+El constructor no tendrá ningún parámetro pero si inicializaremos nuestra lista como un Array y después añadiremos a nuestra cadena un bloque denominado “Genesis”, que será el primer bloque de nuestra cadena. Este bloque “Genesis” es el inicial, por lo tanto, no tendrá ningún hash previo, es decir no apuntará a ningún otro bloque anterior ya que es el inicial, el genuino, el Génesis.  
 
 ![](https://github.com/giramos/Blockchain/blob/main/imagenes/Aspose.Words.2e0ccb9e-bfa9-407a-af90-e8d14ebe5aa8.010.png)
 
