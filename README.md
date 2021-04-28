@@ -59,7 +59,7 @@ El valor hash calculado se denomina "resumen del mensaje" y nos saldría aquí:
 
 A la hora de calcular el hash se ha consultado varias páginas que nos instruyen en cómo calcular una función Hash SHA-256 y la codificación de cadenas, por ejemplo, utilizando Java Base64: 
 
-![](https://github.com/giramos/Blockchain/blob/main/imagenes/Aspose.Words.2e0ccb9e-bfa9-407a-af90-e8d14ebe5aa8.007.png)
+![](https://github.com/giramos/Blockchain/blob/main/imagenes/Aspose.Words.2e0ccb9e-bfa9-407a-af90-e8d14ebe5aa8.007.jpeg)
 
 *Ilustración 7 Función para calcular Hash* 
 
