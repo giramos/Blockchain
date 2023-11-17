@@ -1,6 +1,6 @@
 # Blockchain
 Programa de ejemplo en Java sobre la filosofía del blockchain
-### Autor: Germán Iglesias Ramos UO202549
+### Autor: Germán Iglesias Ramos 
 
 ## Ejemplo en JAVA 
 
